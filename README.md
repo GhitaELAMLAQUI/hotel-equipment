@@ -10,3 +10,7 @@ Hotel equipment web app is created to help hotel manage the distribution of its 
 # Screenshots:
 1. Login page : \
 ![GitHub Logo](/img/login.png)
+2. Devices in use home page :
+![GitHub Logo](/img/inv/Image1.png)
+  *List of All equipments used in each department
+  ![GitHub Logo](/img/inv/Image2.png)
