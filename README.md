@@ -12,5 +12,14 @@ Hotel equipment web app is created to help hotel manage the distribution of its 
 ![GitHub Logo](/img/login.png)
 2. Devices in use home page :
 ![GitHub Logo](/img/inv/Image1.png)
-  *List of All equipments used in each department
+  * List of All equipments used in each department
   ![GitHub Logo](/img/inv/Image2.png)
+  * Details about the device selected from the list
+  ![GitHub Logo](/img/inv/Image3.png)
+  * List of All the employers of the hotel
+  ![GitHub Logo](/img/inv/Image4.png)
+  * Details about the employer selected from the list
+  ![GitHub Logo](/img/inv/Image5.png)
+  * Form to add a new employer
+  ![GitHub Logo](/img/inv/Image6.png)
+  
