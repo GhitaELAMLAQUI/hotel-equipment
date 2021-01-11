@@ -26,9 +26,9 @@ Hotel equipment web app is created to help hotel manage the distribution of its 
 3. Devices in stock home page :
 ![GitHub Logo](/img/stock/Image7.png)
 * List of all the equipments still in stock
-  ![GitHub Logo](/img/inv/Image8.png)
+  ![GitHub Logo](/img/stock/Image8.png)
 * Details about the device selected form the list
-  ![GitHub Logo](/img/inv/Image9.png)
+  ![GitHub Logo](/img/stock/Image9.png)
 * List of devices needed in each department
-  ![GitHub Logo](/img/inv/Image10.png)
+  ![GitHub Logo](/img/stock/Image10.png)
   
