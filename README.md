@@ -1,1 +1,1 @@
-# Hotel-equipment
+# Hotel equipment management
