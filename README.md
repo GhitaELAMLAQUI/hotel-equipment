@@ -1,1 +1,1 @@
-# hotel-equipment
+# Hotel-equipment
